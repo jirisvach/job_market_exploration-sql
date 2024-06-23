@@ -3,7 +3,7 @@ In this project I wanted to demonstrate my skills in using SQL and find out some
 <br>I used only PostgeSQL in Visual Studio Code.
 
 ## Main questions:
-**1) What are the top 10 paying companies for Data Analyst role?** <br>
+**1) What are the top 10 paying companies and Data Analyst roles?** <br>
 **2) What are the top 10 paying skills?** <br>
 **3) What are the most frequent skills and their average salary?** <br>
 **4) Compare different Meta Data Analyst roles salary with average salary** <br>
@@ -32,3 +32,7 @@ The database is running successfully, the next step is to create new tables. The
 <br>
 
 ### Query_1 <br>
+I´m interested in salary_year_avg column and Data Analyst roles. After filtering out the Data Analyst roles I noticed the salary column has some null values. After filtering out null values I use count function to verify the proper analysis can be made. The table has over 5.000 entries which is enough for this project. Then I used join function to connect job postings fact table with the company dim table to be able to see the company's names. The final step was to sort the data by the highest year average salary.
+<br>
+![05](https://github.com/jirisvach/sql_job_project/assets/74241688/70b0a61f-dd1e-4ae1-85fd-c470e0d90b41)
+
