@@ -3,10 +3,10 @@ In this project I wanted to demonstrate my skills in using SQL and find out some
 <br>I used only PostgeSQL in Visual Studio Code.
 
 ## Main questions:
-**1) What are the top 10 paying companies and Data Analyst roles?** <br>
-**2) What are the top 10 paying skills?** <br>
-**3) What are the most frequent skills and their average salary?** <br>
-**4) Compare different Meta Data Analyst roles salary with average salary** <br>
+**1) What are the top 10 paying companies and Data Analyst roles?[Query_1]** <br>
+**2) What are the top 10 paying skills?[Query_2]** <br>
+**3) What are the most frequent skills and their average salary?[Query_3]** <br>
+**4) Compare different Meta Data Analyst roles salary with average salary[Query_4]** <br>
 
 ### Query_0 <br>
 Step zero is to set up a new connection between VS Code and the PG Admin server, create a new database, create tables and import all data from csv files into the tables.
@@ -57,5 +57,17 @@ This query is a combination of two queries - the most frequent skills and the hi
 The result showed that Excel is in the top 3 frequent skills but its average salary is second lowest in those top 10 skills
 <br>
 ![09](https://github.com/jirisvach/sql_job_project/assets/74241688/7a0463cd-8cd3-4737-87ad-1c3ef32beb5e)
+
+<br>
+
+### Query_4 <br>
+I used the window function to create the extra column showing the global average salary for the Data Analyst role which helps to compare different Meta job roles salaries with the global average salary. 
+<br>
+![10](https://github.com/jirisvach/sql_job_project/assets/74241688/8d5199fc-1c30-4593-9af9-0d305fdc6219)
+
+<br>
+The result showed that only top 3 Data Analyst positions are above global year salary average. 
+<br>
+![11](https://github.com/jirisvach/sql_job_project/assets/74241688/d86e5d69-c748-4d02-af47-bfa3670478ea)
 
 <br>
