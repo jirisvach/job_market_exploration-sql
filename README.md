@@ -45,8 +45,17 @@ To identify top 10 paying skills I used the previous code as a CTE and joined it
 <br>
 ![07](https://github.com/jirisvach/sql_job_project/assets/74241688/5148cefe-3c2a-41d4-9c96-d4cff7a56b05)
 <br>
-The result shows that SQL and Python are the most valuable skills and are required in half of the top 100 paid jobs
+The result showed that SQL and Python are the most valuable skills and are required in half of the top 100 paid jobs
 ![077](https://github.com/jirisvach/sql_job_project/assets/74241688/539c2a10-698f-4d2d-9863-ff89d7e98309)
 <br>
 
 ### Query_3 <br>
+This query is a combination of two queries - the most frequent skills and the highest paid skills. 
+<br>
+![08](https://github.com/jirisvach/sql_job_project/assets/74241688/2ee9c952-ded8-4dea-a744-50dc62ae6f52)
+<br>
+The result showed that Excel is in the top 3 frequent skills but its average salary is second lowest in those top 10 skills
+<br>
+![09](https://github.com/jirisvach/sql_job_project/assets/74241688/7a0463cd-8cd3-4737-87ad-1c3ef32beb5e)
+
+<br>
