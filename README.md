@@ -27,6 +27,6 @@ The database is running successfully, the next step is to create new tables. The
 <br>
 <br> Last step is to copy the data from cvs into the tables.
 <br>
-![03](https://github.com/jirisvach/sql_job_project/assets/74241688/58a5e0cc-0a52-450e-9af2-4b4d1a27b757)<br>
+![03](https://github.com/jirisvach/sql_job_project/assets/74241688/58a5e0cc-0a52-450e-9af2-4b4d1a27b757) <br>
 
 ### Query_1 <br>
