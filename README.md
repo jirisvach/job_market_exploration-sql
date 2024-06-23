@@ -7,3 +7,5 @@ In this project I wanted to demonstrate my skills in using SQL and find out some
 **2) What are the top 10 paying skills?** <br>
 **3) What are the most frequent skills and their average salary?** <br>
 **4) Compare different Meta Data Analyst roles salary with average salary** <br>
+
+### Query_0 <br>
