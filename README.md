@@ -18,9 +18,15 @@ The connection test was successful, let´s check the PG Admin server and connect
 ![02](https://github.com/jirisvach/sql_job_project/assets/74241688/b7be19a1-0432-4390-bf33-7e73b24c5b54)<br>
 <br>
 The database is running successfully, the next step is to create new tables. The tables columns need to be  the same as in the csv files.
+<br>
 **NOTE:** I´ve used several data types:
   - TEXT and VARCHAR(255) - VARCHAR for columns where I don´t expect a length of more than 255 characters
   - INT and NUMERIC - INT for id´s and NUMERIC for any values lenghth
   - BOOLEAN - for TRUE/FALSE values
   - TIMESTAMP - date time values
 <br>
+<br> Last step is to copy the data from cvs into the tables.
+<br>
+![03](https://github.com/jirisvach/sql_job_project/assets/74241688/58a5e0cc-0a52-450e-9af2-4b4d1a27b757)<br>
+
+### Query_1 <br>
