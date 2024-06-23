@@ -24,9 +24,11 @@ The database is running successfully, the next step is to create new tables. The
   - INT and NUMERIC - INT for id´s and NUMERIC for any values lenghth
   - BOOLEAN - for TRUE/FALSE values
   - TIMESTAMP - date time values
-<br>
+<br>![03](https://github.com/jirisvach/sql_job_project/assets/74241688/71d8f9f8-d915-4290-96a7-eb567aaabfe4)
+
 <br> Last step is to copy the data from cvs into the tables.
+<br>![04](https://github.com/jirisvach/sql_job_project/assets/74241688/1bf2f45b-4ab7-47d7-868d-a28f67db2fcb)
+
 <br>
-![03](https://github.com/jirisvach/sql_job_project/assets/74241688/58a5e0cc-0a52-450e-9af2-4b4d1a27b757) <br>
 
 ### Query_1 <br>
