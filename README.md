@@ -66,8 +66,10 @@ I used the window function to create the extra column showing the global average
 ![10](https://github.com/jirisvach/sql_job_project/assets/74241688/8d5199fc-1c30-4593-9af9-0d305fdc6219)
 
 <br>
-The result showed that only top 3 Data Analyst positions are above global year salary average. 
+The result showed that only top 3 Data Analyst positions are above the global year salary average. 
 <br>
-![11](https://github.com/jirisvach/sql_job_project/assets/74241688/d86e5d69-c748-4d02-af47-bfa3670478ea)
+![11](https://github.com/jirisvach/sql_job_project/assets/74241688/0797af09-e6e0-4ab2-a2a7-07a6d9ba021c)
 
 <br>
+
+### Conclusion <br>
