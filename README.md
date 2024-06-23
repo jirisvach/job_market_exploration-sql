@@ -68,8 +68,10 @@ I used the window function to create the extra column showing the global average
 <br>
 The result showed that only top 3 Data Analyst positions are above the global year salary average. 
 <br>
-![11](https://github.com/jirisvach/sql_job_project/assets/74241688/0797af09-e6e0-4ab2-a2a7-07a6d9ba021c)
+![11](https://github.com/jirisvach/sql_job_project/assets/74241688/809a8ddf-39eb-4d1f-9881-996da4604bc2)
+
 
 <br>
 
 ### Conclusion <br>
+In this project, I used basic and some more advanced techniques. As I´ve learned SQL is still one of the most valuable skills to know as a Data Analyst. 
